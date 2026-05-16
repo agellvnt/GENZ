@@ -70,7 +70,7 @@ export const About = () => {
                             </span>
                         </h2>
                         <p className="text-base sm:text-lg text-slate-300 leading-relaxed mb-10">
-                            GENZ Trade is not just another telegram group screaming  "buy now". We're a
+                            GENZ Trade is not just another Discord group screaming  "buy now". We're a
                             high-signal community of options, crypto, and equity traders sharing
                             real setups, real entries, and real exits — every trading day.
                         </p>

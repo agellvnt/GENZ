@@ -72,7 +72,7 @@ export const Hero = () => {
 
                     {/* Subhead */}
                     <p className="text-base sm:text-lg text-slate-300 max-w-2xl mb-10 leading-relaxed font-body">
-                        Join India's most active Gen-Z trading community. Daily signals, live
+                        Join Indonesian's most active Gen-Z trading community. Daily signals, live
                         sessions, market breakdowns, and{" "}
                         <span className="text-[#FFD700] font-semibold">real winning trades</span>{" "}
                         shared by traders who actually trade.
