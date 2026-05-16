@@ -85,11 +85,11 @@ export const Footer = () => {
                 </div>
 
                 {/* Massive type */}
-                <div className="overflow-hidden -mx-6 lg:-mx-12 mb-10">
-                    <div className="font-display font-black text-white/[0.04] tracking-tighter text-center select-none leading-none" style={{ fontSize: "clamp(72px, 16vw, 220px)" }}>
+                {/* <div className="overflow-hidden -mx-6 lg:-mx-12 mb-10">
+                    <div className="font-display font-black text-white/[0.20] tracking-tighter text-center select-none leading-none" style={{ fontSize: "clamp(72px, 16vw, 220px)" }}>
                         GENZ TRADE
                     </div>
-                </div>
+                </div> */}
 
                 <div className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 border-t border-white/8">
                     <div className="text-xs text-slate-500">
