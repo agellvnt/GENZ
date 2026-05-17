@@ -54,7 +54,7 @@ export const Hero = () => {
                             <span className="relative inline-flex rounded-full h-2 w-2 bg-[#00F0FF]" />
                         </span>
                         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[#00F0FF]">
-                            Live · 12,400+ Active Traders
+                            Live · 700++ Active Traders
                         </span>
                     </div>
 
