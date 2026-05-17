@@ -12,14 +12,14 @@ import {
 const features = [
     {
         icon: <LineChart size={22} />,
-        title: "Daily Trade Signals",
-        desc: "Curated long/short setups with entry, stop-loss, and target levels delivered in real time.",
+        title: "Outlook Harian",
+        desc: "Setup trading long & short dengan outlook market yang jelas dan dibagikan secara real-time setiap hari trading..",
         accent: "blue",
     },
     {
         icon: <Radio size={22} />,
-        title: "Live Trading Sessions",
-        desc: "Tune into pre-market, intraday, and post-market sessions hosted by senior traders.",
+        title: "Live Education Sessions",
+        desc: "belajar langsung bersama trader lain melalui sesi live yang membahas market structure, price action, mindset, dan cara membaca pergerakan market secara real-time.",
         accent: "gold",
     },
     {
@@ -31,19 +31,19 @@ const features = [
     {
         icon: <BarChart3 size={22} />,
         title: "Daily Market Analysis",
-        desc: "Detailed breakdowns of indices, options chains, FII/DII data, and global cues.",
+        desc: "Analisa market harian yang membantu kamu memahami arah market, momentum, dan peluang trading dengan sudut pandang yang lebih jelas dan terstruktur.",
         accent: "blue",
     },
     {
         icon: <Shield size={22} />,
         title: "Risk Management Tools",
-        desc: "Position sizing calculators and risk-reward planners shared inside the community.",
+        desc: " Alat dan strategi manajemen risiko yang membantu kamu melindungi modal dan memaksimalkan potensi profit dalam setiap trade.",
         accent: "gold",
     },
     {
         icon: <Bell size={22} />,
-        title: "Instant Alerts",
-        desc: "Push notifications the moment a high-conviction setup is live — never miss a move.",
+        title: "Psikologi Trading",
+        desc: " Sesi khusus yang membahas mindset, emosi, dan psikologi trading untuk membantu kamu tetap disiplin dan fokus di market.",
         accent: "blue",
     },
 ];
@@ -114,10 +114,10 @@ export const Features = () => {
                     className="max-w-2xl mb-14"
                 >
                     <span className="text-xs font-bold uppercase tracking-[0.25em] text-[#00F0FF]">
-                        What You Get
+                        Apa yang kalian
                     </span>
                     <h2 className="font-display font-black text-white text-3xl sm:text-4xl lg:text-5xl tracking-tight leading-[1.05] mt-4">
-                        Everything you need to <br />
+                        Semua yang kamu butuhkan untuk bisa <br />
                         <span className="text-[#FFD700]">trade like a pro.</span>
                     </h2>
                 </motion.div>

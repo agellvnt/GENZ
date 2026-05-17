@@ -3,56 +3,56 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
     {
-        name: "Aarav Kapoor",
-        role: "Options Trader · Mumbai",
+        name: "FAYTDROP",
+        role: "Core Member Batch 1",
         avatar:
-            "https://images.unsplash.com/photo-1761959138573-e7785091a829?crop=entropy&cs=srgb&fm=jpg&q=85&w=400",
-        text: "Switched from random YouTube signals to GENZ Trade and my equity curve finally looks like a curve and not a heart attack. Mentors are the real deal.",
+            "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        text: "Dulu entry cuma modal feeling dan FOMO. Setelah masuk GENZ Trade, baru ngerti cara baca liquidity, bias, sama narrative dengan benar. Sekarang trading jauh lebih tenang dan jelas arahnya.",
         pnl: "+₹6.4L",
         period: "in 4 months",
     },
     {
-        name: "Priya Sharma",
-        role: "Crypto Swing Trader",
+        name: "ENDIK1",
+        role: "Core Member Batch 1",
         avatar:
-            "https://images.unsplash.com/photo-1772989665252-7cb41ae759cc?crop=entropy&cs=srgb&fm=jpg&q=85&w=400",
-        text: "I joined as a complete beginner. Six months later I'm managing my own portfolio confidently. The mentorship is what makes this place different.",
+            "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        text: "Belajar dari YouTube bikin gue makin bingung karena semua ngomong beda. Di GENZ Trade materinya rapih, simpel, dan langsung bisa dipraktekin di market",
         pnl: "+₹2.1L",
         period: "first 6 months",
     },
     {
-        name: "Rohan Mehta",
-        role: "Intraday Trader · Bangalore",
+        name: "MALLARIP",
+        role: "Core Member Batch 1",
         avatar:
-            "https://images.unsplash.com/photo-1584598788787-e6ce5159df0b?crop=entropy&cs=srgb&fm=jpg&q=85&w=400",
-        text: "The pre-market calls alone are worth 10x what most people charge. Tight risk management, clear levels, no fluff.",
+            "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        text: "pakai metode yang diajarin selama di elite, udah bisa entry, arah market sesuai dengan teori, ga asal buy sell,  profit tipis² di cent🔥",
         pnl: "+₹3.8L",
         period: "this quarter",
     },
     {
-        name: "Ishita Verma",
-        role: "Equity Investor · Delhi",
+        name: "QCEM",
+        role: "Core Member Batch 1",
         avatar:
-            "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?crop=entropy&cs=srgb&fm=jpg&q=85&w=400",
-        text: "Honestly the vibe is what keeps me here. Smart people, zero ego, daily learning. Profit is just a bonus at this point.",
+            "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        text: "No fomo, no asal entry. Sekarang udah bisa trading mandiri. 💯",
         pnl: "+₹1.9L",
         period: "in 5 months",
     },
     {
-        name: "Karan Patel",
+        name: "CHY",
         role: "F&O Trader · Surat",
         avatar:
-            "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=srgb&fm=jpg&q=85&w=400",
-        text: "Blew up my account twice before joining. Took 3 months of discipline inside the community to recover. Now I trade with rules — not feelings.",
+            "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        text: "ilmu daging wagyu a5 dari mas @Astana dan @farhan 🔥",
         pnl: "+₹4.7L",
         period: "in 8 months",
     },
     {
-        name: "Sanya Reddy",
+        name: "PRABOBO",
         role: "Crypto + Equity",
         avatar:
-            "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=srgb&fm=jpg&q=85&w=400",
-        text: "Reviews of my trade journal every week have completely changed my edge. I actually understand WHY I'm taking trades now.",
+            "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        text: "“Masuk GENZ Trade dari zero banget. Sekarang udah ngerti liquidity, narrative, dan market structure dengan cara yang simpel dan mudah dipahami.”",
         pnl: "+₹2.6L",
         period: "this year",
     },
@@ -80,9 +80,9 @@ export const Testimonials = () => {
                         Member Reviews
                     </span>
                     <h2 className="font-display font-black text-white text-3xl sm:text-4xl lg:text-5xl tracking-tight leading-[1.05] mt-4">
-                        Words from <br />
+                       apa yang dirasakan oleh <br />
                         <span className="bg-gradient-to-r from-[#FFD700] to-[#00F0FF] bg-clip-text text-transparent">
-                            the trading floor.
+                           para member kami.
                         </span>
                     </h2>
                 </motion.div>

@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { TrendingUp, ArrowUpRight } from "lucide-react";
 
-const DASHBOARD_IMG = "https://static.prod-images.emergentagent.com/jobs/b11163da-a0e0-419a-82f8-db0252672867/images/4bf5cf08490b104ec7ba45a25bb8569b5850f96860bd2ea4a03399ce1686a741.png";
+const DASHBOARD_IMG = "https://i.imgur.com/EVuUigq.png";
 
 const trades = [
     { ticker: "BANKNIFTY 48500 CE", pnl: "+₹86,400", pct: "+142%", entry: "₹120", exit: "₹290" },
@@ -43,8 +43,7 @@ export const Results = () => {
                         </h2>
                     </div>
                     <p className="text-sm text-slate-400 max-w-md">
-                        A small snapshot from the last few weeks. Posted live in Discord by our
-                        members — no edits, no scams, no faked screenshots.
+                       Sedikit snapshot dari hasil nyata yang diraih oleh anggota kami.
                     </p>
                 </motion.div>
 
@@ -70,15 +69,14 @@ export const Results = () => {
                             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full glass mb-4 w-fit">
                                 <span className="w-2 h-2 rounded-full bg-[#00F0FF] animate-pulse" />
                                 <span className="text-xs font-bold uppercase tracking-widest text-[#00F0FF]">
-                                    This Month
+                                    Real Testimonial
                                 </span>
                             </div>
                             <div className="font-display font-black text-white text-5xl sm:text-6xl mb-2 text-glow-gold">
-                                <span className="text-[#FFD700]">+₹84.2L</span>
+                                <span className="text-[#FFD700]">+..%</span>
                             </div>
                             <div className="text-base text-slate-300 max-w-md">
-                                Combined verified member P&amp;L across options, crypto, and equity
-                                positions for November alone.
+                                Bukti nyata dari edukasi, langsung dari dashboard anggota kami. No edits, no filters — hanya hasil mentah yang berbicara sendiri.  
                             </div>
                         </div>
                     </motion.div>
@@ -95,13 +93,13 @@ export const Results = () => {
                             className="glass rounded-2xl p-6 border border-[#FFD700]/30 hover:border-[#FFD700]/60 transition-all"
                         >
                             <div className="text-xs uppercase tracking-widest text-[#FFD700] font-bold mb-3">
-                                Best Single Trade
+                               Metode yang dipakai 
                             </div>
                             <div className="font-display font-black text-white text-3xl mb-1">
-                                +312%
+                                SMC & ICT Consept 
                             </div>
                             <div className="text-sm text-slate-400">
-                                BANKNIFTY CE — 30-min hold
+                                Terbukti profitable jangka pendek maupun panjang, dengan rasio risiko:imbalan yang sangat menarik.
                             </div>
                         </motion.div>
                         <motion.div
@@ -114,13 +112,13 @@ export const Results = () => {
                             className="glass rounded-2xl p-6 border border-[#00F0FF]/30 hover:border-[#00F0FF]/60 transition-all"
                         >
                             <div className="text-xs uppercase tracking-widest text-[#00F0FF] font-bold mb-3">
-                                Win Streak
+                                Edukasi yang terstruktur
                             </div>
                             <div className="font-display font-black text-white text-3xl mb-1">
-                                14 / 16
+                                Basic sampai advanced
                             </div>
                             <div className="text-sm text-slate-400">
-                                profitable signal calls last week
+                                Edukasi yang terstruktur dan mudah dipahami, membantu anggota kami mengembangkan keterampilan trading mereka secara efektif.
                             </div>
                         </motion.div>
                     </div>

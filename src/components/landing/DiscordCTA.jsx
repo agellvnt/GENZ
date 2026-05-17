@@ -33,7 +33,7 @@ export const DiscordCTA = () => {
                     <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-[#FFD700]/30 bg-[#FFD700]/5 mb-8">
                         <Sparkles size={14} className="text-[#FFD700]" />
                         <span className="text-xs font-bold uppercase tracking-[0.2em] text-[#FFD700]">
-                            Free to Join
+                            We Waiting for you guys
                         </span>
                     </div>
 
@@ -43,13 +43,12 @@ export const DiscordCTA = () => {
                     >
                         Ready to trade with <br />
                         <span className="bg-gradient-to-r from-[#00F0FF] via-blue-200 to-[#FFD700] bg-clip-text text-transparent">
-                            12,400+ winners?
+                           100++ winners?
                         </span>
                     </h2>
 
                     <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto mb-10 leading-relaxed">
-                        One click. Zero spam. Get instant access to live signals, mentors, and a
-                        community that actually shows up for each other.
+                       satu kali bayar untuk seumur hidup. Bergabunglah dengan komunitas kami di Discord dan dapatkan akses instan ke edukasi, mentorship langsung, dan hasil nyata yang dibagikan langsung oleh anggota kami — setiap hari.
                     </p>
 
                     <a
@@ -60,7 +59,7 @@ export const DiscordCTA = () => {
                         className="card-glow group inline-flex items-center justify-center gap-3 bg-[#5865F2] hover:bg-[#4752C4] text-white font-bold px-10 py-5 rounded-md text-lg transition-all duration-200 hover:scale-[1.04] shadow-[0_0_40px_rgba(88,101,242,0.5)]"
                     >
                         <FaDiscord className="text-2xl" />
-                        Join Discord — It's Free
+                        Join Discord
                         <ArrowRight
                             size={20}
                             className="card-glow group-hover:translate-x-1 transition-transform"
@@ -69,9 +68,9 @@ export const DiscordCTA = () => {
 
                     <div className="flex flex-wrap justify-center items-center gap-x-8 gap-y-3 mt-10 pt-8 border-t border-white/8">
                         {[
-                            "12.4K+ active members",
-                            "Daily live signals",
-                            "Free mentorship",
+                            "700++ active members",
+                            "Daily Outlook",
+                            "Mentorship Session",
                             "Verified results",
                         ].map((b, i) => (
                             <div

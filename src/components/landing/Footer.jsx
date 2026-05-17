@@ -19,7 +19,6 @@ export const Footer = () => {
                             </span>
                         </div>
                         <p className="text-sm text-slate-400 max-w-sm leading-relaxed mb-6">
-                            India's most active Gen-Z trading community. Live signals,
                             mentorship, and real winning trades — every single trading day.
                         </p>
                         <div className="flex items-center gap-3">

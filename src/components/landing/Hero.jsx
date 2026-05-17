@@ -72,10 +72,9 @@ export const Hero = () => {
 
                     {/* Subhead */}
                     <p className="text-base sm:text-lg text-slate-300 max-w-2xl mb-10 leading-relaxed font-body">
-                        Join Indonesian's most active Gen-Z trading community. Daily signals, live
-                        sessions, market breakdowns, and{" "}
-                        <span className="text-[#FFD700] font-semibold">real winning trades</span>{" "}
-                        shared by traders who actually trade.
+                        Gabung bareng komunitas trading Gen-Z Indonesia yang fokus belajar bareng, sharing setup, market breakdown harian, dan live session rutin buat bantu member{" "}
+                        <span className="text-[#FFD700] font-semibold">berkembang</span>{" "}
+                        step by step.
                     </p>
 
                     {/* CTAs */}
@@ -107,9 +106,9 @@ export const Hero = () => {
                     {/* Stat strip */}
                     <div className="grid grid-cols-3 gap-6 sm:gap-12 w-full max-w-2xl">
                         {[
-                            { k: "12.4K+", v: "Active Members" },
-                            { k: "₹2.8Cr+", v: "Member Profits" },
-                            { k: "94%", v: "Signal Accuracy" },
+                            { k: "700+", v: "Active Members" },
+                            { k: "₹100++", v: "Member Elite" },
+                            { k: "94%", v: "Kepuasan Member" },
                         ].map((s, i) => (
                             <div key={i} data-testid={`hero-stat-${i}`}>
                                 <div className="font-display font-black text-2xl sm:text-3xl text-white">

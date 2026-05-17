@@ -1,31 +1,9 @@
 import { motion } from "framer-motion";
 
 const photos = [
-    {
-        url: "https://images.unsplash.com/photo-1589483232748-515c025575bc?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
-        alt: "Members celebrating",
-        span: "md:col-span-2 md:row-span-2 aspect-square",
-    },
-    {
-        url: "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?crop=entropy&cs=srgb&fm=jpg&q=85&w=700",
-        alt: "Group strategy session",
-        span: "aspect-[4/5]",
-    },
-    {
-        url: "https://images.unsplash.com/photo-1551836022-d5d88e9218df?crop=entropy&cs=srgb&fm=jpg&q=85&w=700",
-        alt: "Multi-screen trading setup",
-        span: "aspect-[4/5]",
-    },
-    {
-        url: "https://images.unsplash.com/photo-1556157382-97eda2d62296?crop=entropy&cs=srgb&fm=jpg&q=85&w=700",
-        alt: "Young trader smiling",
-        span: "aspect-[4/5]",
-    },
-    {
-        url: "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?crop=entropy&cs=srgb&fm=jpg&q=85&w=900",
-        alt: "Team collaboration",
-        span: "md:col-span-2 aspect-[2/1]",
-    },
+
+
+
 ];
 
 export const Community = () => {
@@ -52,8 +30,13 @@ export const Community = () => {
                         <span className="text-[#FFD700]">A movement.</span>
                     </h2>
                     <p className="text-base text-slate-400 mt-5">
-                        From meetups in Mumbai to Discord game nights, GENZ Trade is where
-                        young traders connect, build, and win — together.
+                       “Komunitas ini dibangun untuk kalian yang serius ingin berkembang di dunia trading, bukan cuma ikut-ikutan atau sekadar cari sinyal instan. Di sini kita belajar dari dasar sampai ke cara berpikir market yang benar, mulai dari market structure, liquidity, sampai bagaimana membaca pergerakan harga dengan lebih logis dan terarah.
+
+Kami percaya setiap trader punya prosesnya masing-masing, dan tidak ada jalan instan untuk jadi konsisten. Karena itu, komunitas ini hadir sebagai tempat untuk saling support, saling berbagi insight, dan tumbuh bareng dengan ritme belajar yang jelas.
+
+Kalian akan ketemu banyak trader lain yang juga sedang berproses, dari yang masih baru sampai yang sudah mulai konsisten, jadi suasananya bukan kompetisi tapi kolaborasi. Tujuannya sederhana: supaya setiap member bisa naik level pelan-pelan dengan cara yang lebih terarah dan tidak mengulang kesalahan yang sama terus-menerus.
+
+Kami siap membimbing kalian untuk membangun mindset yang benar, disiplin dalam eksekusi, dan paham bagaimana market sebenarnya bekerja, supaya pada akhirnya kalian bisa jadi trader yang lebih stabil, matang, dan punya arah yang jelas dalam jangka panjang.”
                     </p>
                 </motion.div>
 

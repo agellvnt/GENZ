@@ -39,10 +39,10 @@ export const About = () => {
                         {/* Floating glass card */}
                         <div className="absolute -bottom-6 -right-6 glass rounded-xl p-5 hidden sm:block">
                             <div className="text-xs uppercase tracking-widest text-[#FFD700] font-bold mb-1">
-                                Est. 2022
+                                3 years of exprerience  
                             </div>
                             <div className="font-display font-black text-white text-2xl">
-                                3+ Years
+                               700++ Members
                             </div>
                             <div className="text-xs text-slate-400">building winners</div>
                         </div>
@@ -64,33 +64,33 @@ export const About = () => {
                             data-testid="about-heading"
                             className="font-display font-black text-white text-3xl sm:text-4xl lg:text-5xl tracking-tight leading-[1.05] mt-4 mb-6"
                         >
-                            Built by traders. <br />
+                            Dibangun Oleh Trader<br />
                             <span className="bg-gradient-to-r from-[#FFD700] to-[#00F0FF] bg-clip-text text-transparent">
-                                For the next generation.
+                                Untuk the next generation.
                             </span>
                         </h2>
                         <p className="text-base sm:text-lg text-slate-300 leading-relaxed mb-10">
-                            GENZ Trade is not just another Discord group screaming  "buy now". We're a
-                            high-signal community of options, crypto, and equity traders sharing
-                            real setups, real entries, and real exits — every trading day.
+                            GENZ Trade bukan sekadar grup Discord yang teriak “buy sekarang”.
+                            Kami adalah komunitas trader forex yang fokus pada analisa market, pemahaman price action, dan pengembangan
+                            skill trading secara nyata — berbagi insight, setup, dan pengalaman trading setiap hari.
                         </p>
 
                         <div className="space-y-5">
                             {[
                                 {
                                     icon: <Target size={20} />,
-                                    title: "Sharp Setups, Zero Noise",
-                                    desc: "Curated trade ideas with clear entry, SL, and target levels.",
+                                    title: "Setup Presisi, Zero Noise",
+                                    desc: "Trade akurat dengan level entry, SL, dan target yang jelas.",
                                 },
                                 {
                                     icon: <Users size={20} />,
-                                    title: "Mentorship That Cares",
-                                    desc: "Mentors who answer your DMs and review your trade logs.",
+                                    title: "Mentorship One on One",
+                                    desc: "Mentor yang aktif menjawab DM kamu dan membantu mereview jurnal serta hasil tradingmu.",
                                 },
                                 {
                                     icon: <Zap size={20} />,
-                                    title: "Live Sessions Daily",
-                                    desc: "Pre-market plans, mid-day reviews, and post-market analysis.",
+                                    title: "Recording Session",
+                                    desc: "Buat kamu yang sibuk, semua sesi live trading kami direkam dan bisa diakses kapan saja.",
                                 },
                             ].map((item, i) => (
                                 <div
