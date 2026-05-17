@@ -27,7 +27,7 @@ const testimonials = [
             "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "pakai metode yang diajarin selama di elite, udah bisa entry, arah market sesuai dengan teori, ga asal buy sell,  profit tipis² di cent🔥",
         pnl: "+₹3.8L",
-        period: "Batch 1",
+        period: "Batch 2",
     },
     {
         name: "QCEM",
