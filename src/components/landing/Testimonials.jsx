@@ -13,30 +13,30 @@ const testimonials = [
     },
     {
         name: "ENDIK1",
-        role: "Core Member Batch 1",
+        role: "Core Member",
         avatar:
             "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "Belajar dari YouTube bikin gue makin bingung karena semua ngomong beda. Di GENZ Trade materinya rapih, simpel, dan langsung bisa dipraktekin di market",
         pnl: "+₹2.1L",
-        period: "first 6 months",
+        period: "Batch1",
     },
     {
         name: "MALLARIP",
-        role: "Core Member Batch 1",
+        role: "Core Member",
         avatar:
             "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "pakai metode yang diajarin selama di elite, udah bisa entry, arah market sesuai dengan teori, ga asal buy sell,  profit tipis² di cent🔥",
         pnl: "+₹3.8L",
-        period: "this quarter",
+        period: "Batch 1",
     },
     {
         name: "QCEM",
-        role: "Core Member Batch 1",
+        role: "Core Member",
         avatar:
             "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "No fomo, no asal entry. Sekarang udah bisa trading mandiri. 💯",
         pnl: "+₹1.9L",
-        period: "in 5 months",
+        period: " Batch 1",
     },
     {
         name: "CHY",
@@ -45,7 +45,7 @@ const testimonials = [
             "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "ilmu daging wagyu a5 dari mas @Astana dan @farhan 🔥",
         pnl: "+₹4.7L",
-        period: "in 8 months",
+        period: "Batch 1",
     },
     {
         name: "PRABOBO",
@@ -54,7 +54,7 @@ const testimonials = [
             "https://plus.unsplash.com/premium_photo-1738590017220-5820f49608cc?q=80&w=1267&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         text: "“Masuk GENZ Trade dari zero banget. Sekarang udah ngerti liquidity, narrative, dan market structure dengan cara yang simpel dan mudah dipahami.”",
         pnl: "+₹2.6L",
-        period: "this year",
+        period: "Batch 2",
     },
 ];
 

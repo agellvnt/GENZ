@@ -114,7 +114,7 @@ export const Features = () => {
                     className="max-w-2xl mb-14"
                 >
                     <span className="text-xs font-bold uppercase tracking-[0.25em] text-[#00F0FF]">
-                        Apa yang kalian
+                        Apa yang kalian dapatkan
                     </span>
                     <h2 className="font-display font-black text-white text-3xl sm:text-4xl lg:text-5xl tracking-tight leading-[1.05] mt-4">
                         Semua yang kamu butuhkan untuk bisa <br />
